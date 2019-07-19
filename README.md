@@ -7,7 +7,7 @@ it will do something at random at a random time between 1 second and 5 minutes.
 
 Things annoyance will do include: 
 
-- Enable / Disable capslock 
+- Randomly Enable / Disable capslock 
 - Randomly Move mouse 
 - Randomly move windows with win (left|right|up|down)
 - Randomly open windows settings 
