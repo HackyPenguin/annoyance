@@ -25,8 +25,11 @@ How to Configure
 
 Simply clone the project 
 
-run pip install -r requirements.txt 
-cd ./src 
-pyinstaller main.py
+run: 
+ - pip install -r requirements.txt 
+ - cd ./src 
+ - pyinstaller main.py
+ 
+you will have a .exe or binary created inside the dist folder
 
 
