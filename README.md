@@ -30,6 +30,6 @@ run:
  - cd ./src 
  - pyinstaller main.py
  
-you will have a .exe or binary created inside the dist folder
+you will have a .exe  created inside the dist folder
 
 
